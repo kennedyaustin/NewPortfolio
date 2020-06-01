@@ -24,6 +24,12 @@ $(window).load(function () {
     $('#preloader').delay(350).fadeOut('slow', function () {
         $('.profile-page, .resume-page, .contact-page, .portfolio-page').hide();
     });
+    $('.projet-items').hide();
+    $('.project-controls').on('click', function() {
+
+        $('.projet-items').show();
+
+    })
 });
 
 $(document).ready(function () {
