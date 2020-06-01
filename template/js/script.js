@@ -28,7 +28,7 @@ $(window).load(function () {
     $('.project-controls').on('click', function() {
 
         $('.projet-items').show();
-
+        preventDefault();
     })
 });
 
@@ -206,9 +206,9 @@ $(document).ready(function () {
         -------------------------------  */
 
     $(function () {
-        
-        var filterizd = $('.projet-items').filterizr({});
 
+        var filterizd = $('.projet-items').filterizr({});
+        preventDefault();
 
     });
 
