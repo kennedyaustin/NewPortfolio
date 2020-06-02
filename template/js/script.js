@@ -208,7 +208,7 @@ $(document).ready(function () {
     $(function () {
 
         var filterizd = $('.projet-items').filterizr({});
-        preventDefault();
+        // preventDefault();
 
     });
 
