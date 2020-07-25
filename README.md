@@ -1,6 +1,6 @@
 # NewPortfolio
 
-Project Link: https://kennedyaustin.github.io/NewPortfolio/
+Project Link: https://kennedyaustin.github.io/Portfolio/
 
 # Overview
 
